@@ -9,8 +9,7 @@ A premium, long-form terminal RPG + trade sim in Python. It is designed for a de
 - **Tactical combat** with stamina actions, heavy attacks, guard play, and boss mechanics.
 - **Progression systems**: leveling, renown gates, crafting, upgrades, and title changes.
 - **Persistent saves**: 3 JSON save slots with market state + player state.
-- **ASCII presentation**: title art, class art, chapter banners, and terminal-friendly intro animation effects.
-- **Character class selection**: choose Blademaster, Warden, or Arcanist at run start with different stat profiles.
+
 
 ## Run
 ```bash
